@@ -69,3 +69,6 @@ octave-workspace
 
 # Simulink autosave extension
 .autosave
+
+# Mac related ignores
+.DS_Store
