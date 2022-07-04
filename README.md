@@ -1,4 +1,4 @@
-# <img src="assets/imgs/docker-animate-min.gif"/> THE DOCKER CONTAINERS DOJO <img src="assets/imgs/docker-animate-min.gif"/>
+# <img src="assets/imgs/docker-animate-min.gif"/> **THE DOCKER CONTAINERS DOJO** <img src="assets/imgs/docker-animate-min.gif"/>
 
 This is a repository that has been created to start learning and working with container technology using docker software, the main goal of these lessons and projects is to create content and documentation that will be useful in the future. Containers are extremely powerful tools that are used in cloud computing and many other technologies. <br>  
 
@@ -14,7 +14,5 @@ Compose is a tool for defining and running multi-container Docker applications. 
 
 ## Elkin Javier Guerra Galeano <img src="https://github.com/Elkinmt19/docker-containers-dojo/blob/main/assets/imgs/robotboy_fly.gif"/>
 
-Student of Mechatronics Engineering at EIA University, excited for integrating Software and Hardware systems. <br>
-He is curious about Control Theory and implementing Robotics Solutions with different math designs. <br>
-He has skills with problem-solving for real-life applications. He is passionate about building knowledge from a theory-practice approach. <br>
+Machine Learning Engineer, passionate about artificial intelligence and software development, I am currently exploring the world of MLOps, researching and gaining more and more knowledge on this topic. I am very interested in cloud computing and currently have experience working with AWS and GCP. 🐨 🚀
 
