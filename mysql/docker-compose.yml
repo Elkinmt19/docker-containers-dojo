@@ -1,0 +1,27 @@
+version: "3.8"
+services:
+  mysql_db:
+    container_name: mysql_db
+    image: mysql:latest
+    # Important command to allow legacy authentications for old versions
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_PASSWORD: root
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: company_db
+    expose:
+      - "3306"
+    ports:
+      - "3306:3306"
+    volumes:
+      - web_dev_dojo_mysql_db_volume:/var/lib/mysql
+      - ./db:/docker-entrypoint-initdb.d
+    deploy:
+      resources:
+        limits:
+          memory: 1G
+
+volumes:
+  web_dev_dojo_mysql_db_volume:
+    name: "web_dev_dojo_mysql_db_volume"
