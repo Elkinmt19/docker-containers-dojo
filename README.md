@@ -2,6 +2,11 @@
 
 This is a repository that has been created to start learning and working with container technology using docker software, the main goal of these lessons and projects is to create content and documentation that will be useful in the future. Containers are extremely powerful tools that are used in cloud computing and many other technologies. <br>  
 
+<p align="center">
+    <img src="assets/imgs/docker_cat_turtle.gif" width="55%"/>
+    <img src="assets/imgs/docker_compose_logo.png" width="21%"/>
+</p>
+
 ## SOFTWARE DEPENDENCIES :computer:
 
 * [Docker](https://www.docker.com/) <br>
