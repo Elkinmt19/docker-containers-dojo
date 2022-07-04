@@ -1,4 +1,4 @@
-# <img src="assets/imgs/docker-animate-logo.gif" width=10%/> THE DOCKER CONTAINERS DOJO <img src="assets/imgs/docker-animate-logo.gif" width=10%/>
+# <img src="assets/imgs/docker-animate-logo.gif"/> THE DOCKER CONTAINERS DOJO <img src="assets/imgs/docker-animate-logo.gif"/>
 
 This is a repository that has been created to start learning and working with container technology using docker software, the main goal of these lessons and projects is to create content and documentation that will be useful in the future. Containers are extremely powerful tools that are used in cloud computing and many other technologies. <br>  
 
