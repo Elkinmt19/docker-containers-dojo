@@ -1,6 +1,6 @@
 # **Elasticsearch Container**
 
-This is a simple implementation of an Elasticsearch Docker container, with this useful resources it is possible to run a single-node Elasticsearch cluster locally very quick just using Docker and Docker-compose.
+This is a simple implementation of an Elasticsearch Docker container, with these useful resources it is possible to run a single-node Elasticsearch cluster locally very quick just using Docker and Docker-compose.
 
 <p align="center">
   <img src="./assets/imgs/Elasticsearch_logo.png" width=90%/>
