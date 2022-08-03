@@ -30,9 +30,3 @@ PING
 
 # Go outside the container
 exit
-```
-When everything was setup correctly you should see a response like the following:
-
-```bash
-
-```
