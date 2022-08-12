@@ -72,3 +72,6 @@ octave-workspace
 
 # Mac related ignores
 .DS_Store
+
+# Jupyter notebook ignores
+.ipynb_checkpoints
